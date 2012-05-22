@@ -18,8 +18,9 @@ german.js:
 http://snowball.tartarus.org/otherlangs/german_javascript.txt
 
 Author: Joder Illi
-Copyright (c) 2010, FormBlitz AG
-All rights reserved.
+
+Copyright (c) 2010, FormBlitz AG  All rights reserved.
+
 Implementation of the stemming algorithm from
 http://snowball.tartarus.org/algorithms/german/stemmer.html
 Copyright of the algorithm is: Copyright (c) 2001, Dr Martin
